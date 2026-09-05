@@ -1,32 +1,116 @@
-# Hi, I'm Ram Pranai Teja 👋
- 
-## 🚀 About Me
- 
-B.Tech Computer Science student | Competitive programming enthusiast
-Building AI/ML and full-stack projects, improving problem-solving skills, and learning by doing. Always curious, always leveling up.
- 
-## 🌐 Connect with Me
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-pranai-teja-a6525b367/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2400031614@kluniversity.in)
- 
-## 🛠️ Tech Stack
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Ram Pranai Teja - Header"/>
+</p>
+
+<!-- ======================= ABOUT ======================= -->
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Me"/>
+</p>
+
+<p align="center">
+  B.Tech Computer Science student passionate about
+  <b>Artificial Intelligence, Full-Stack Development, and Problem Solving.</b>
+</p>
+
+<p align="center">
+  I build AI-powered applications, explore RAG and LLM systems,
+  and turn ideas into practical full-stack products.
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Exploring **Generative AI, LLMs & RAG**
+- 🔎 Building **AI-powered applications**
+- 💻 Developing **full-stack web applications**
+- 🧠 Improving **Data Structures & Algorithms**
+- ☁️ Learning **Cloud & AWS**
+- 🚀 Turning ideas into real-world projects
+
+---
+
+<!-- ======================= SKILLS ======================= -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Skills"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
- 
-- **[resumerelevance](https://github.com/rampranai-0104/resumerelevance)** — TypeScript
-- **[nexus-news-agent](https://github.com/rampranai-0104/nexus-news-agent)** — Python
-- **[mutual-funds](https://github.com/rampranai-0104/mutual-funds)** — JavaScript
- 
+
+### 🤖 AI & Machine Learning
+
+**[resumerelevance](https://github.com/rampranai-0104/resumerelevance)**  
+TypeScript-based project focused on resume relevance and analysis.
+
+**[nexus-news-agent](https://github.com/rampranai-0104/nexus-news-agent)**  
+Python-based AI/news agent project.
+
+**[ai-chatbot](https://github.com/rampranai-0104/ai-chatbot)**  
+Python-based chatbot project.
+
+---
+
+### 💻 Full-Stack Development
+
+**[OrbitPath](https://github.com/rampranai-0104/OrbitPath)**  
+Full-stack application built with JavaScript.
+
+---
+
+### 🧠 Problem Solving
+
+**[DSA-PROBLEMS](https://github.com/rampranai-0104/DSA-PROBLEMS)**  
+My collection of Data Structures & Algorithms problems and solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ram-pranai-teja-a6525b367/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:2400031614@kluniversity.in">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rampranai-0104">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI / ML
+  ├── LLMs
+  ├── RAG
+  ├── Generative AI
+  └── AI Agents
+
+Full-Stack
+  ├── React
+  ├── Node.js
+  ├── FastAPI
+  └── Databases
+
+Engineering
+  ├── Data Structures & Algorithms
+  ├── System Design
+  ├── Git & GitHub
+  └── Cloud / AWS
