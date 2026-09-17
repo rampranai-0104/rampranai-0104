@@ -108,7 +108,7 @@ A mutual fund investment platform concept helping users start and manage their i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rampranai-0104&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampranai-0104&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rampranai-0104&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
